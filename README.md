@@ -4,4 +4,4 @@ Iris flower has three species; setosa, versicolor, and virginica, which differs 
 
 Data set link: https://www.kaggle.com/datasets/saurabh00007/iriscsv/code?datasetId=4247&sortBy=voteCount
 
-I performed EDA on data set and used classification models like Logistic Regression and Random Forest Regressor, both giving same accuracy of 100% !
+I performed EDA on data set and used classification models like Logistic Regression, KNN and Decision Tree, all giving the same accuracy of 100% !
